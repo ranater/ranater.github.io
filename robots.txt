@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ranater.github.io/sitemap.html.gz
+Sitemap: https://ranater.github.io/app/sitemap.html.gz
+Sitemap: https://ranater.github.io/assets/sitemap.html.gz
+Sitemap: https://ranater.github.io/css/sitemap.html.gz
+Sitemap: https://ranater.github.io/includes/sitemap.html.gz
+Sitemap: https://ranater.github.io/item/sitemap.html.gz
+Sitemap: https://ranater.github.io/src/sitemap.html.gz
